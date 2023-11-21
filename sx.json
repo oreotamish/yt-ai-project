@@ -1,0 +1,79 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "a4Dd6VEHYsHJZviRN8Lq_wcTujI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "8pfyOB4UD161L3ObsCqLmOGEeb0",
+      "id": "kdWov5fjQl0",
+      "snippet": {
+        "publishedAt": "2021-09-13T15:45:02Z",
+        "channelId": "UCc35WvHmQjLE8NN4Y_ITmUQ",
+        "title": "every finance bro",
+        "description": "let's face it, there's bros... and then there's finance bros. you know...\n*has an internship in new york for one summer* \n*becomes finance guru at the age of 23*\n *totals dad's Lamborghini Huracan* \n*hits juul*\n-\ntour dates !!\nAUSTIN, TX: Sept. 22 & 24th\nLexington, KY: September 30-Oct 2\nPlano/Dallas, TX: OCT. 7-10 (MOVED/new date added)\nVirginia Beach, VA: Oct 22-24\nNew Brunswick, NJ: Nov 4-6\nJacksonville, FL: Nov 18-20\nDenver, CO: Dec 9-11\nCharlotte, NC: Dec 16-18\nNashville, TN: Jan 6\n\nTickets at: https://www.trevorwallacecomedy.com\n-\nListen/watch to my podcast @StiffSocks / every Wednesday !\n-\nShot and edited by: @johnyo \n-\nif ur still reading this, go comment \"did trevor just IPA\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdWov5fjQl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdWov5fjQl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdWov5fjQl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdWov5fjQl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdWov5fjQl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Trevor Wallace",
+        "tags": [
+          "trevor wallace",
+          "trevor walace",
+          "travis wallace",
+          "white claw",
+          "kyle",
+          "monster",
+          "bang energy",
+          "trevor wallace cherdleys",
+          "finance",
+          "finance bro",
+          "wallstreet",
+          "wows",
+          "wolf of wallstreet",
+          "leo",
+          "finance advice",
+          "new york",
+          "nyc",
+          "new york city"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "every finance bro",
+          "description": "let's face it, there's bros... and then there's finance bros. you know...\n*has an internship in new york for one summer* \n*becomes finance guru at the age of 23*\n *totals dad's Lamborghini Huracan* \n*hits juul*\n-\ntour dates !!\nAUSTIN, TX: Sept. 22 & 24th\nLexington, KY: September 30-Oct 2\nPlano/Dallas, TX: OCT. 7-10 (MOVED/new date added)\nVirginia Beach, VA: Oct 22-24\nNew Brunswick, NJ: Nov 4-6\nJacksonville, FL: Nov 18-20\nDenver, CO: Dec 9-11\nCharlotte, NC: Dec 16-18\nNashville, TN: Jan 6\n\nTickets at: https://www.trevorwallacecomedy.com\n-\nListen/watch to my podcast @StiffSocks / every Wednesday !\n-\nShot and edited by: @johnyo \n-\nif ur still reading this, go comment \"did trevor just IPA\""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "3701286",
+        "likeCount": "119654",
+        "favoriteCount": "0",
+        "commentCount": "2389"
+      }
+    }
+  ],
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 1 }
+}
